@@ -1,1 +1,10 @@
 https://login-ciam-dev.whatsappsim.de/signin/XUI/#login/
+
+
+login 
+https://login-dev.alditalk-kundenbetreuung.de/signin/XUI/#login ===== forbbiden
+https://login-dev.ayyildiz.de/signin/XUI/#login ===========Forbidden
+https://login-ciam-dev.blau.de/signin/XUI/#login ==========working
+https://login-ciam-dev.fonic.de/signin/XUI/#login ==========Empty response
+https://login-dev.o2online.de/signin/XUI/#login/ =============working but o2 button was not their
+https://login-ciam-dev.whatsappsim.de/signin/XUI/#login
