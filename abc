@@ -8,3 +8,19 @@ https://login-ciam-dev.blau.de/signin/XUI/#login ==========working
 https://login-ciam-dev.fonic.de/signin/XUI/#login ==========Empty response
 https://login-dev.o2online.de/signin/XUI/#login/ =============working but o2 button was not their
 https://login-ciam-dev.whatsappsim.de/signin/XUI/#login
+
+
+
+ct
+https://login-ct.alditalk-kundenbetreuung.de/signin/XUI/#login   ---- working
+https://login-ciam-ct.blau.de/signin/XUI/#login ---- working
+https://login-ciam-ct.whatsappsim.de/signin/XUI/#login  -- working
+
+https://login-ct.ayyildiz.de/signin/XUI/#login --- faq vales false - note working  -- faq button not their
+
+
+https://login-ct.o2online.de/signin/XUI/#login/ --- faq value their but button is not vizible --- working
+ 
+https://login-ciam-ct.o2business.de/signin/XUI/#login --- not working ---
+https://login-ct.ortelmobile.de/signin/XUI/#login -----------not working
+https://login-ciam-ct.nettokom.de/signin/XUI/#login  ---------- faq lis not there ---not working
